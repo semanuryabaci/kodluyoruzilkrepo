@@ -19,7 +19,6 @@ Linux için:
 
 ```
 cd kodluyoruzilkrepo
-
 code .
 ```
 
@@ -29,4 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[MIT](https://github.com/semanuryabaci/kodluyoruzilkrepo/blob/main/LICENSE)
+[MIT](https://choosealicense.com/licenses/mit/)
