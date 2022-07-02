@@ -1,4 +1,4 @@
-![](https://www.hizliresim.com/p41scql)
+![](https://i.hizliresim.com/p41scql.png)
 # Kodluyoruz Ilk Repo
 
  Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Back-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
