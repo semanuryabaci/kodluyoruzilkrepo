@@ -6,9 +6,10 @@
 
 Öncelikle projeyi clonelayın.
 
-`
+```
 git clone https://github.com/semanuryabaci/kodluyoruzilkrepo.git
-`
+```
+
 ## Usage 
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız. 
